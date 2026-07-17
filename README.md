@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsidoreDelpierro
-- 👀 I’m interested in Python, Django, JavaScript (Node, React, MongoDB) and Graphics Design
-- 🌱 I’m currently learning Bioinformatics with Python
-- 💞️ I’m looking to collaborate on Python/Django and Javascript projects, and to research in Bioinformatics and collaborate on Bioinformatics projects
+- 👀 I’m interested in Data, AI, Python (Django), and Graphics Design
+- 🌱 I’m curious about Bioinformatics with Python
+- 💞️ I’m looking to collaborate on data-focused, Python/Django and Javascript projects, and to research in Bioinformatics and collaborate on Bioinformatics projects
 - 📫 I'm reachable on social outlets as @IsidoreDelpierro
 
 <!---
